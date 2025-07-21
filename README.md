@@ -1,5 +1,4 @@
-# fifo_verification_project
-sync_fifo_verification
+
 # My FIFO Design Project
 
 This is the project for my SoC Design Lab, where I built and tested a 16-bit synchronous FIFO.
