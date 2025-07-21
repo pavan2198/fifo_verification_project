@@ -1,5 +1,5 @@
 
-# My FIFO Design Project
+# My Synchronous FIFO Design and Verification Project
 
 This is the project for my SoC Design Lab, where I built and tested a 16-bit synchronous FIFO.
 
